@@ -89,4 +89,4 @@ python notebooks/04_gui_tkinter_manager.py
 ## 👤 Author
 **Duvvada Naveen Kumar**  
 Data Analyst, MP Power Management Co. Ltd.  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/duvvada-naveen-kumar)
